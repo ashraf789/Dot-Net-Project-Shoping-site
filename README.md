@@ -1,6 +1,6 @@
 #why i develop it ?
-i develop this dot net project for my university semester project show
-its about online shoping system app
+i develop this dot net project for my university semester project 
+its about online shoping system web site
 
 #used visual studio
 this project create by using visual studio 2013 and also i run this on visual studio 2010 
