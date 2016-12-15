@@ -12,3 +12,6 @@ Note: please download CrafticArtWithDatabase.zip file you will got full project 
 #database:
 you got CrafticArtProject.mdf and ldf database file copy this then go to your mysql database data file then past this then attach it from mysql server 
 usually mysql data file location : C:\Program Files (x86)\Microsoft SQL Server\MSSQL10_50.SQLEXPRESS\MSSQL\DATA 
+
+#web.config
+open web.config file then change data source to your sql connection source
