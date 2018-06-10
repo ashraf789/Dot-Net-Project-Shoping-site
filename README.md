@@ -15,3 +15,9 @@ usually mysql data file location : C:\Program Files (x86)\Microsoft SQL Server\M
 
 #web.config
 open web.config file then change data source to your sql connection source
+
+
+</br>
+
+## License
+This project is licensed under the MIT License - see the [License File](LICENSE) for details
